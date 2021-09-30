@@ -1,4 +1,4 @@
-package com.example.java8to11.one;
+package com.example.java8to11.functional_one;
 
 import java.util.function.Function;
 

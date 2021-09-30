@@ -1,7 +1,6 @@
-package com.example.java8to11.two;
+package com.example.java8to11.lambda_two;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;

@@ -1,4 +1,4 @@
-package com.example.java8to11.three;
+package com.example.java8to11.interface_three;
 
 public class DefaultFoo implements Foo{
 

@@ -1,4 +1,4 @@
-package com.example.java8to11.two;
+package com.example.java8to11.lambda_two;
 
 public class Greeting {
 
