@@ -1,4 +1,4 @@
-package com.example.java8to11.anotation_kk;
+package com.example.java8to11.anotation_ten;
 
 import java.util.Arrays;
 
